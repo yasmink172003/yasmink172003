@@ -6,10 +6,7 @@
 - 😄 Pronounes: Ela/Dela
 -->
 
-  <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmink172003&show_icons=true&theme=react&border_color=FFE4C4_border=true"/>
-  <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=react&border_color=61dafb&hide_border=true"/>
-</div>
+ 
  
   
 </div>
