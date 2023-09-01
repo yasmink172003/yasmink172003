@@ -6,11 +6,7 @@
 - 😄 Pronounes: Ela/Dela
 -->
   
-   <div align="center">
-  <a href="https://https://github.com/yasmink172003">
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=yasmin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+ 
   
 </div>
 <div style="display: inline_block"><br>
