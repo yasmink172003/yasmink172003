@@ -1,9 +1,9 @@
 ### Olá, eu sou a Yasmin Karolayne👋
 
-- 🔭 Tenho 18 anos
-- 🌱 Estudante de Ciência Da Computação na Anhembi Morumbi
-- 👯 Faço cursos na Alura e na Udemy
-- 😄 Pronounes: Ela/Dela
+-  Tenho 18 anos
+-  Estudante de Ciência Da Computação na Anhembi Morumbi
+- Faço cursos na Alura e na Udemy
+-  Pronounes: Ela/Dela
 -->
 
  
