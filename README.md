@@ -23,6 +23,6 @@
   <a href="https://www.instagram.com/yaskrocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "yasminkarolayne64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-karolayne-8402b724b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://yasmink172003.github.io/um-pouco-sobre-mim/" target="_blank">
+    <a href="https://yasmink172003.github.io/um-pouco-sobre-mim/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/external-portfolio-success-flatart-icons-solid-flatarticons.png" alt="external-portfolio-success-flatart-icons-solid-flatarticons"/>
   </a>
 </div>
