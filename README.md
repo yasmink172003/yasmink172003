@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/yaskrocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "yasminkarolayne64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-karolayne-8402b724b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://edsonlucas.vercel.app/" target="_blank">
+    <a href="https://yasmink172003.github.io/um-pouco-sobre-mim/" target="_blank">
     <img alt="Website" src="https://img.shields.io/website?color=rgb%2842%2C%20207%2C%20131%29&down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=rgb%2842%2C%20207%2C%20131%29&up_message=go&url=http%3A%2F%2Fedsonlucas.vercel.app%2F">
   </a>
 </div>
