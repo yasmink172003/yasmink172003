@@ -6,7 +6,7 @@
 -  Pronounes: Ela/Dela
 -->
 
- <img src="logo1.jpg">
+ 
  
   
 </div>
