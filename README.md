@@ -1,9 +1,7 @@
-### Olá, eu sou a Yasmin Karolayne👋
+### Olá, Devs👋
 
--  Tenho 18 anos
--  Estudante de Ciência Da Computação 
-- Faço cursos na Alura e na Udemy
--  Pronounes: Ela/Dela
+-Sou uma estudante, atualmente estou fazendo faculdade de Ciêcia Da computação e 
+ampliando meus conhecimentos em desenvolver sistemas para o meu futuro como desenvolvedora FullSttack.
 -->
 
  
