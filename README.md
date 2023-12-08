@@ -1,7 +1,9 @@
 ### Olá, Devs👋
 
--Sou uma estudante, atualmente estou fazendo faculdade de Ciêcia Da computação e 
-ampliando meus conhecimentos em desenvolver sistemas para o meu futuro como desenvolvedora FullSttack.
+-Sou uma estudante, atualmente estou
+fazendo faculdade de Ciêcia Da computação e 
+ampliando meus conhecimentos em desenvolver 
+sistemas para o meu futuro como desenvolvedora FullSttack.
 -->
 
  
