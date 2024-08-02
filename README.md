@@ -4,6 +4,11 @@
 fazendo faculdade de Ciêcia Da computação e 
 ampliando meus conhecimentos em desenvolver 
 sistemas para o meu futuro como desenvolvedora FullSttack.
+
+My name is Yasmin Karolayne, I'm a big fan of programming and technology. I have skills in several areas, one of which is Front-End, working with HTML5, CSS3, JavaScript and React, and in Mobile development, using Java and React-Native. The backend, 
+ having knowledge in Object Oriented Programming, SpringBoot and API development. Furthermore, I have knowledge in databases, one of them being MySQL.
+As for my personal characteristics, I am a flexible, responsible and organized professional, which allows me to perform my duties effectively and dynamically. 
+I will be happy to contribute my knowledge to projects to be developed.
 -->
 
  
