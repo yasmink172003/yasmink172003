@@ -21,7 +21,6 @@ I will be happy to contribute my knowledge to projects to be developed.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-sass-e88bb7?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindCSS-16becb?style=for-the-badge&logo=tailwindcss&logoColor=white" />
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img 
 </div>
