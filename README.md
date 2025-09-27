@@ -37,8 +37,6 @@ I will be happy to contribute my knowledge to projects to be developed.
 <div><h1>🎓Database</h1></div>
   <div style="display: inline_block">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
   
 
