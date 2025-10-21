@@ -1,14 +1,11 @@
 ### Olá, Devs👋
 
--Sou uma estudante, atualmente estou
-fazendo faculdade de Ciêcia Da computação e 
-ampliando meus conhecimentos em desenvolver 
-sistemas para o meu futuro como desenvolvedora FullSttack.
+Sou estudante de Ciência da Computação, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento web. Atualmente, estou cursando o 6º semestre e aprimorando meus conhecimentos em Front-End (HTML, CSS, JavaScript e React) e Back-End (Java, Node.js e APIs REST), com experiência em bancos de dados relacionais e não relacionais.
 
-My name is Yasmin Karolayne, I'm a big fan of programming and technology. I have skills in several areas, one of which is Front-End, working with HTML5, CSS3, JavaScript and React, and in Mobile development, using Java and React-Native. The backend, 
- having knowledge in Object Oriented Programming, SpringBoot and API development. Furthermore, I have knowledge in databases, one of them being MySQL.
-As for my personal characteristics, I am a flexible, responsible and organized professional, which allows me to perform my duties effectively and dynamically. 
-I will be happy to contribute my knowledge to projects to be developed.
+Estou cursando um curso pelo SENAI com foco em serviços da AWS, incluindo EC2, Lambda, RDS, DynamoDB, CloudWatch e entre outros, o que fortalece meu interesse em soluções em nuvem.
+
+Sou uma pessoa organizada, proativa e flexível, com facilidade para trabalhar em equipe e aprender novas tecnologias. 
+
 -->
 
  
