@@ -1,6 +1,6 @@
 ### Olá, Devs👋
 
-Sou estudante de Ciência da Computação, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento web. Atualmente, estou cursando o 6º semestre e aprimorando meus conhecimentos em Front-End (HTML, CSS, JavaScript e React) e Back-End (Java, Node.js e APIs REST).
+Sou estudante de Ciência da Computação, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento web. Atualmente, estou cursando o 7º semestre e aprimorando meus conhecimentos em Front-End (HTML, CSS, JavaScript e React) e Back-End (Java, Node.js e APIs REST).
 
 Estou cursando um curso pelo SENAI com foco em serviços da AWS, incluindo EC2, Lambda, RDS, DynamoDB, CloudWatch e entre outros, o que fortalece meu interesse em soluções em nuvem.
 
