@@ -1,6 +1,7 @@
 ### Olá, Devs👋
 
-Sou uma estudante de Ciência da Computação, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento web. Atualmente, estou cursando o 7º semestre e aprimorando meus conhecimentos em Front-End (HTML, CSS, JavaScript e React) e Back-End (Node.js e APIs REST) e Banco de Dados sendo Mysql e PostgreSql.
+Sou estudante de Ciência da Computação, atualmente no 8º semestre, apaixonada por tecnologia e em constante evolução na área de Desenvolvimento de Software. Tenho conhecimentos em desenvolvimento web Full Stack, atuando no desenvolvimento de aplicações modernas, APIs REST e integração com bancos de dados.
+Possuo experiência com Front-End, utilizando HTML, CSS, JavaScript, React e Next.js, além de conhecimentos em Back-End, com Node.js e desenvolvimento de APIs REST. Também tenho conhecimentos em Banco de Dados, especialmente MySQL, e em ferramentas e práticas voltadas ao desenvolvimento e entrega de aplicações, incluindo Docker e deploy de aplicações.
 
 Conhecimento básico em serviços da AWS, incluindo EC2, Lambda, RDS, DynamoDB, CloudWatch e entre outros, o que fortalece meu interesse em soluções em nuvem.
 
