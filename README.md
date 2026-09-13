@@ -1,9 +1,9 @@
 ### Olá, Devs👋
 
-Sou estudante de Ciência da Computação, atualmente no 8º semestre, apaixonada por tecnologia e em constante evolução na área de Desenvolvimento de Software. Tenho conhecimentos em desenvolvimento web Full Stack, atuando no desenvolvimento de aplicações modernas, APIs REST e integração com bancos de dados.
-Possuo experiência com Front-End, utilizando HTML, CSS, JavaScript, React e Next.js, além de conhecimentos em Back-End, com Node.js e desenvolvimento de APIs REST. Também tenho conhecimentos em Banco de Dados, especialmente MySQL, e em ferramentas e práticas voltadas ao desenvolvimento e entrega de aplicações, incluindo Docker e deploy de aplicações.
-
-Conhecimento básico em serviços da AWS, incluindo EC2, Lambda, RDS, DynamoDB, CloudWatch e entre outros, o que fortalece meu interesse em soluções em nuvem.
+Sou estudante de Ciência da Computação e Desenvolvedora Full Stack Júnior, com experiência prática no desenvolvimento, manutenção e evolução de aplicações web e sistemas ERP.
+Tenho experiência com JavaScript, React, Node.js, Express.js, Fastify, TypeScript, APIs REST, MySQL e desenvolvimento de interfaces responsivas.
+Na minha experiência profissional, atuo na manutenção e evolução de um sistema ERP, realizando correção de bugs, implementação de melhorias, suporte técnico e desenvolvimento de novas funcionalidades, buscando soluções eficientes e alinhadas às necessidades do negócio.
+Atualmente, estou aprofundando meus conhecimentos em TypeScript, Next.js, PostgreSQL, Prisma, Docker, AWS, CI/CD e arquitetura de aplicações.
 
 Sou uma pessoa organizada, proativa e flexível, com facilidade para trabalhar em equipe e aprender novas tecnologias. 
 
